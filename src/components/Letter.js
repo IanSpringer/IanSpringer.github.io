@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../styles/Letter.css';
 
 class Letter extends Component {
   constructor(props) {
@@ -8,7 +9,7 @@ class Letter extends Component {
 
   render() {
     return (
-      <span class="banner__letter" data-index={this.props.index}>{this.props.letter}</span>
+      <span className="banner__letter" data-index={this.props.index}>{this.props.letter}</span>
     )
   }
 }
