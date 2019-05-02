@@ -2,7 +2,7 @@
   "name": "new-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://IanSpringer.github.io/IanSpringer/github.io",
+  "homepage": "http://ianspringer.github.io/IanSpringer/github.io",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
