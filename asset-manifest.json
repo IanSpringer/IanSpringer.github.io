@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.47231222.chunk.css",
-  "main.js": "/static/js/main.69dd6653.chunk.js",
-  "main.js.map": "/static/js/main.69dd6653.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.f0927397.chunk.js": "/static/js/2.f0927397.chunk.js",
-  "static/js/2.f0927397.chunk.js.map": "/static/js/2.f0927397.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b52f83448bbd8dc22acf14cab037e063.js": "/precache-manifest.b52f83448bbd8dc22acf14cab037e063.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.47231222.chunk.css.map": "/static/css/main.47231222.chunk.css.map",
-  "static/media/Qardoos.otf": "/static/media/Qardoos.18e9fc29.otf",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/IanSpringer/github.io/static/css/main.67c50d29.chunk.css",
+  "main.js": "/IanSpringer/github.io/static/js/main.652b90f6.chunk.js",
+  "main.js.map": "/IanSpringer/github.io/static/js/main.652b90f6.chunk.js.map",
+  "runtime~main.js": "/IanSpringer/github.io/static/js/runtime~main.d770b15e.js",
+  "runtime~main.js.map": "/IanSpringer/github.io/static/js/runtime~main.d770b15e.js.map",
+  "static/js/2.f0927397.chunk.js": "/IanSpringer/github.io/static/js/2.f0927397.chunk.js",
+  "static/js/2.f0927397.chunk.js.map": "/IanSpringer/github.io/static/js/2.f0927397.chunk.js.map",
+  "index.html": "/IanSpringer/github.io/index.html",
+  "precache-manifest.886b5d3108b730ca961f6b1c1c388010.js": "/IanSpringer/github.io/precache-manifest.886b5d3108b730ca961f6b1c1c388010.js",
+  "service-worker.js": "/IanSpringer/github.io/service-worker.js",
+  "static/css/main.67c50d29.chunk.css.map": "/IanSpringer/github.io/static/css/main.67c50d29.chunk.css.map",
+  "static/media/Qardoos.otf": "/IanSpringer/github.io/static/media/Qardoos.18e9fc29.otf",
+  "static/media/logo.svg": "/IanSpringer/github.io/static/media/logo.5d5d9eef.svg"
 }
